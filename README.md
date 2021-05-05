@@ -1,2 +1,2 @@
 # javascripting
-Mini curso de javascript pela NodeSchool
+Mini curso de javascript pela NodeSchool.io
